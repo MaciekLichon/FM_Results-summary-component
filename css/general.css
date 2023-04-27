@@ -1,0 +1,19 @@
+/* COLORS */
+/* TYPE */
+body {
+  font-family: "Hanken Grotesk", sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color: #ebf1ff;
+}
+
+@media (min-width: 1000px) {
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-size: 1.125rem;
+  }
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvdmFyaWFibGVzLnNjc3MiLCIuLi9zYXNzL2dlbmVyYWwuc2NzcyIsImdlbmVyYWwuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLFdBQUE7QUFrQkEsU0FBQTtBQ2pCQTtFQUNFLHlDRGlCdUM7RUNoQnZDLGVEc0JzQjtFQ3JCdEIsZ0JEaUJjO0VDZmQseUJETzJCO0FFUDdCOztBREVFO0VBUEY7SUFRSSxhQUFhO0lBQ2IsdUJBQXVCO0lBQ3ZCLG1CQUFtQjtJQUNuQixpQkFBaUI7SUFFakIsbUJEZ0J5QjtFRWYzQjtBQUNGIiwiZmlsZSI6ImdlbmVyYWwuY3NzIn0= */
